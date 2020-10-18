@@ -41,7 +41,7 @@ body{
 }
 
 #showcase{
-	background-image: url('../images/aquibmamubday.jpg');
+	background-image: url('aquibmamubday.jpg');
 	background-position: center ;
 	min-height: 99px;
 	margin-bottom: 30px; 
